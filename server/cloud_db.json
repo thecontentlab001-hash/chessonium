@@ -1,0 +1,137 @@
+{
+  "akshath2008": {
+    "chesscomConnected": true,
+    "lichessConnected": false,
+    "chesscomUsername": "akshath2008",
+    "lichessUsername": "",
+    "chesscomData": {
+      "username": "akshath2008",
+      "bullet": 1218,
+      "blitz": 1148,
+      "rapid": 1129,
+      "gamesCount": 580
+    },
+    "lichessData": null,
+    "importedGames": [
+      {
+        "id": "cc_3_1780333387",
+        "platform": "chesscom",
+        "opponent": "Akthe_great",
+        "opponentRating": 692,
+        "myRating": 1148,
+        "result": "loss",
+        "color": "black",
+        "date": "2026-06-01",
+        "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.06.01\"]\n[Round \"-\"]\n[White \"Akthe_great\"]\n[Black \"akshath2008\"]\n[Result \"1-0\"]\n[CurrentPosition \"6k1/2P2p1p/3p1qpP/p2Pb3/Pr6/KP2P3/3Q4/2R5 b - - 0 47\"]\n[Timezone \"UTC\"]\n[ECO \"B33\"]\n[ECOUrl \"https://www.chess.com/openings/Sicilian-Defense-Open-3...cxd4-4.Nxd4\"]\n[UTCDate \"2026.06.01\"]\n[UTCTime \"16:52:34\"]\n[WhiteElo \"692\"]\n[BlackElo \"1148\"]\n[TimeControl \"180\"]\n[Termination \"Akthe_great won by resignation\"]\n[StartTime \"16:52:34\"]\n[EndDate \"2026.06.01\"]\n[EndTime \"17:03:07\"]\n[Link \"https://www.chess.com/game/live/169561330844\"]\n\n1. e4 {[%clk 0:03:00]} 1... c5 {[%clk 0:03:00]} 2. Nf3 {[%clk 0:02:58.2]} 2... Nc6 {[%clk 0:02:56.1]} 3. d4 {[%clk 0:02:48.6]} 3... cxd4 {[%clk 0:02:48.6]} 4. Nxd4 {[%clk 0:02:40.6]} 4... Nxd4 {[%clk 0:02:48.5]} 5. Qxd4 {[%clk 0:02:37.7]} 5... d6 {[%clk 0:02:44.7]} 6. Bb5+ {[%clk 0:02:32.8]} 6... Bd7 {[%clk 0:02:41.8]} 7. Bxd7+ {[%clk 0:02:31]} 7... Qxd7 {[%clk 0:02:41.7]} 8. Nc3 {[%clk 0:02:28.3]} 8... e5 {[%clk 0:02:40.5]} 9. Qd5 {[%clk 0:02:25.5]} 9... Nf6 {[%clk 0:02:39]} 10. Qd3 {[%clk 0:02:22.9]} 10... Be7 {[%clk 0:02:38.1]} 11. Bg5 {[%clk 0:02:21.6]} 11... O-O {[%clk 0:02:37.2]} 12. O-O-O {[%clk 0:02:20.6]} 12... Rac8 {[%clk 0:02:26.5]} 13. Nd5 {[%clk 0:02:16.9]} 13... Nxd5 {[%clk 0:02:23.6]} 14. exd5 {[%clk 0:02:15.4]} 14... Bxg5+ {[%clk 0:02:23.5]} 15. Kb1 {[%clk 0:02:12.9]} 15... Rfe8 {[%clk 0:02:20.5]} 16. h4 {[%clk 0:02:03.1]} 16... e4 {[%clk 0:02:19.1]} 17. Qe2 {[%clk 0:01:51.7]} 17... Bf6 {[%clk 0:02:16.7]} 18. g4 {[%clk 0:01:43.1]} 18... g6 {[%clk 0:02:10.1]} 19. h5 {[%clk 0:01:40.7]} 19... Bg7 {[%clk 0:02:08.8]} 20. Rh3 {[%clk 0:01:31.2]} 20... Be5 {[%clk 0:01:59.6]} 21. Ra3 {[%clk 0:01:23.8]} 21... Rc5 {[%clk 0:01:54.3]} 22. Rxa7 {[%clk 0:01:21.4]} 22... Rb5 {[%clk 0:01:53.2]} 23. b3 {[%clk 0:01:15.6]} 23... e3 {[%clk 0:01:38.1]} 24. fxe3 {[%clk 0:01:06.4]} 24... Rb6 {[%clk 0:01:31]} 25. Qf2 {[%clk 0:01:00.3]} 25... Ra6 {[%clk 0:01:24.8]} 26. Rxa6 {[%clk 0:00:52.1]} 26... bxa6 {[%clk 0:01:24.7]} 27. Rf1 {[%clk 0:00:47.7]} 27... Rf8 {[%clk 0:01:17.5]} 28. Qe2 {[%clk 0:00:42.8]} 28... Rc8 {[%clk 0:01:13.2]} 29. a4 {[%clk 0:00:36.3]} 29... Qc7 {[%clk 0:01:08.4]} 30. c4 {[%clk 0:00:25]} 30... Rb8 {[%clk 0:01:02.9]} 31. Ka2 {[%clk 0:00:43.5]} 31... Rb4 {[%clk 0:00:55.3]} 32. h6 {[%clk 0:00:46.8]} 32... a5 {[%clk 0:00:54]} 33. Qf2 {[%clk 0:00:42.7]} 33... Qe7 {[%clk 0:00:35.3]} 34. g5 {[%clk 0:00:38.3]} 34... Qb7 {[%clk 0:00:19.4]} 35. Rb1 {[%clk 0:01:09]} 35... Qe7 {[%clk 0:01:24.3]} 36. Qg2 {[%clk 0:01:01.8]} 36... Qb7 {[%clk 0:00:59]} 37. Qc2 {[%clk 0:00:56.3]} 37... Qe7 {[%clk 0:00:53]} 38. Rg1 {[%clk 0:00:41.5]} 38... Qb7 {[%clk 0:01:22.4]} 39. Rg4 {[%clk 0:00:33.9]} 39... Qd7 {[%clk 0:01:34.9]} 40. Qe2 {[%clk 0:00:29.7]} 40... Rb7 {[%clk 0:01:32.8]} 41. Rg1 {[%clk 0:00:31.1]} 41... Qf5 {[%clk 0:01:28.2]} 42. Qd2 {[%clk 0:00:37.9]} 42... Rb4 {[%clk 0:01:19]} 43. Rc1 {[%clk 0:00:33.1]} 43... Qe4 {[%clk 0:02:04]} 44. Ka3 {[%clk 0:00:26.6]} 44... Qf5 {[%clk 0:01:55.9]} 45. c5 {[%clk 0:00:19.7]} 45... Qxg5 {[%clk 0:01:49.5]} 46. c6 {[%clk 0:00:27.5]} 46... Qf6 {[%clk 0:01:38.1]} 47. c7 {[%clk 0:00:23.9]} 1-0\n",
+        "isAnalyzing": false,
+        "accuracy": 92.7
+      },
+      {
+        "id": "cc_2_1780332555",
+        "platform": "chesscom",
+        "opponent": "MatthewPiccolo",
+        "opponentRating": 1127,
+        "myRating": 1163,
+        "result": "win",
+        "color": "white",
+        "date": "2026-06-01",
+        "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.06.01\"]\n[Round \"-\"]\n[White \"akshath2008\"]\n[Black \"MatthewPiccolo\"]\n[Result \"1-0\"]\n[CurrentPosition \"1k1r1r2/1p2b2p/p1nq1p2/2p5/6B1/P2P1N2/1PP1QPPP/R1B1R1K1 b - - 0 15\"]\n[Timezone \"UTC\"]\n[ECO \"B40\"]\n[ECOUrl \"https://www.chess.com/openings/Sicilian-Defense-French-Variation-3.Nc3-Nc6\"]\n[UTCDate \"2026.06.01\"]\n[UTCTime \"16:47:41\"]\n[WhiteElo \"1163\"]\n[BlackElo \"1127\"]\n[TimeControl \"180+2\"]\n[Termination \"akshath2008 won by resignation\"]\n[StartTime \"16:47:41\"]\n[EndDate \"2026.06.01\"]\n[EndTime \"16:49:15\"]\n[Link \"https://www.chess.com/game/live/169561104532\"]\n\n1. e4 {[%clk 0:03:00.9]} 1... c5 {[%clk 0:03:00.7]} 2. Nf3 {[%clk 0:03:02.8]} 2... e6 {[%clk 0:03:01.6]} 3. Nc3 {[%clk 0:03:03.1]} 3... Nc6 {[%clk 0:03:02.3]} 4. a3 {[%clk 0:03:03]} 4... a6 {[%clk 0:03:03.5]} 5. Bc4 {[%clk 0:03:02.8]} 5... d5 {[%clk 0:03:03.4]} 6. exd5 {[%clk 0:03:03.2]} 6... exd5 {[%clk 0:03:05.3]} 7. Qe2+ {[%clk 0:03:03.3]} 7... Be7 {[%clk 0:03:05.7]} 8. Nxd5 {[%clk 0:03:02]} 8... Nf6 {[%clk 0:03:06.1]} 9. Nxf6+ {[%clk 0:03:01.5]} 9... gxf6 {[%clk 0:03:08]} 10. d3 {[%clk 0:03:01.8]} 10... Qd6 {[%clk 0:03:06.3]} 11. O-O {[%clk 0:03:02.6]} 11... Bg4 {[%clk 0:03:04.3]} 12. Re1 {[%clk 0:03:03.3]} 12... O-O-O {[%clk 0:03:04.7]} 13. Bxf7 {[%clk 0:02:53.9]} 13... Rhf8 {[%clk 0:02:49.2]} 14. Be6+ {[%clk 0:02:50.3]} 14... Kb8 {[%clk 0:02:48.2]} 15. Bxg4 {[%clk 0:02:50.5]} 1-0\n"
+      },
+      {
+        "id": "cc_1_1780332458",
+        "platform": "chesscom",
+        "opponent": "Lyroth",
+        "opponentRating": 1135,
+        "myRating": 1155,
+        "result": "loss",
+        "color": "black",
+        "date": "2026-06-01",
+        "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.06.01\"]\n[Round \"-\"]\n[White \"Lyroth\"]\n[Black \"akshath2008\"]\n[Result \"1-0\"]\n[CurrentPosition \"6k1/ppp4p/8/2bpn3/8/2N1P2p/PPPBBP2/R6K w - - 0 23\"]\n[Timezone \"UTC\"]\n[ECO \"A40\"]\n[ECOUrl \"https://www.chess.com/openings/Englund-Gambit-2.dxe5\"]\n[UTCDate \"2026.06.01\"]\n[UTCTime \"16:45:01\"]\n[WhiteElo \"1135\"]\n[BlackElo \"1155\"]\n[TimeControl \"180+2\"]\n[Termination \"Lyroth won by resignation\"]\n[StartTime \"16:45:01\"]\n[EndDate \"2026.06.01\"]\n[EndTime \"16:47:38\"]\n[Link \"https://www.chess.com/game/live/169560981072\"]\n\n1. d4 {[%clk 0:03:00.8]} 1... e5 {[%clk 0:02:59.8]} 2. dxe5 {[%clk 0:03:01.5]} 2... f6 {[%clk 0:03:01.7]} 3. exf6 {[%clk 0:03:02.4]} 3... Nxf6 {[%clk 0:03:03.6]} 4. Nf3 {[%clk 0:03:03.4]} 4... Bc5 {[%clk 0:03:04.4]} 5. e3 {[%clk 0:03:04]} 5... O-O {[%clk 0:03:05.4]} 6. Nc3 {[%clk 0:03:05.1]} 6... Nc6 {[%clk 0:03:05.3]} 7. Be2 {[%clk 0:03:04.4]} 7... d6 {[%clk 0:02:56.5]} 8. O-O {[%clk 0:03:05.1]} 8... Bg4 {[%clk 0:02:57]} 9. h3 {[%clk 0:03:05.1]} 9... Bxh3 {[%clk 0:02:56.9]} 10. Ng5 {[%clk 0:03:01.9]} 10... Bxg2 {[%clk 0:02:54.9]} 11. Kxg2 {[%clk 0:02:58]} 11... Nd5 {[%clk 0:02:53.5]} 12. Qxd5+ {[%clk 0:02:57.3]} 12... Kh8 {[%clk 0:02:49.7]} 13. Nf7+ {[%clk 0:02:58.6]} 13... Rxf7 {[%clk 0:02:50.7]} 14. Qxf7 {[%clk 0:02:59.7]} 14... Qg5+ {[%clk 0:02:52.6]} 15. Kh1 {[%clk 0:02:54.7]} 15... Qh4+ {[%clk 0:02:52.6]} 16. Kg1 {[%clk 0:02:52.7]} 16... Ne5 {[%clk 0:02:48.6]} 17. Qf4 {[%clk 0:02:46.5]} 17... g5 {[%clk 0:02:39.7]} 18. Qxh4 {[%clk 0:02:47.2]} 18... gxh4 {[%clk 0:02:41.6]} 19. Bd2 {[%clk 0:02:39.4]} 19... Rg8+ {[%clk 0:02:39.4]} 20. Kh1 {[%clk 0:02:40.1]} 20... d5 {[%clk 0:02:25]} 21. Rg1 {[%clk 0:02:39.8]} 21... h3 {[%clk 0:02:22.2]} 22. Rxg8+ {[%clk 0:02:40.4]} 22... Kxg8 {[%clk 0:02:24.1]} 1-0\n"
+      },
+      {
+        "id": "cc_0_1780332294",
+        "platform": "chesscom",
+        "opponent": "Akthe_great",
+        "opponentRating": 634,
+        "myRating": 1164,
+        "result": "win",
+        "color": "white",
+        "date": "2026-06-01",
+        "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.06.01\"]\n[Round \"-\"]\n[White \"akshath2008\"]\n[Black \"Akthe_great\"]\n[Result \"1-0\"]\n[CurrentPosition \"r3rk2/1qp2Q2/3b2p1/p2np1N1/P2p4/3P2P1/1PKB1P1P/3R3R b - - 0 21\"]\n[Timezone \"UTC\"]\n[ECO \"A00\"]\n[ECOUrl \"https://www.chess.com/openings/Kings-Fianchetto-Opening-1...e5\"]\n[UTCDate \"2026.06.01\"]\n[UTCTime \"16:40:19\"]\n[WhiteElo \"1164\"]\n[BlackElo \"634\"]\n[TimeControl \"180+2\"]\n[Termination \"akshath2008 won by checkmate\"]\n[StartTime \"16:40:19\"]\n[EndDate \"2026.06.01\"]\n[EndTime \"16:44:54\"]\n[Link \"https://www.chess.com/game/live/169560763916\"]\n\n1. g3 {[%clk 0:03:02]} 1... e5 {[%clk 0:03:02]} 2. Bh3 {[%clk 0:03:03.9]} 2... Nc6 {[%clk 0:03:02]} 3. Nc3 {[%clk 0:03:04.1]} 3... Nf6 {[%clk 0:03:03]} 4. d3 {[%clk 0:03:05.3]} 4... d5 {[%clk 0:03:03.7]} 5. e4 {[%clk 0:03:05.8]} 5... d4 {[%clk 0:03:03.7]} 6. Nd5 {[%clk 0:03:07.4]} 6... Nxd5 {[%clk 0:03:03.9]} 7. Bxc8 {[%clk 0:03:08.4]} 7... Qxc8 {[%clk 0:03:00.8]} 8. exd5 {[%clk 0:03:09.2]} 8... Nb4 {[%clk 0:02:38.7]} 9. a3 {[%clk 0:03:05.8]} 9... Nxd5 {[%clk 0:02:29.4]} 10. Qh5 {[%clk 0:03:07.7]} 10... Bd6 {[%clk 0:02:14.2]} 11. Bd2 {[%clk 0:03:01.4]} 11... O-O {[%clk 0:02:10.4]} 12. O-O-O {[%clk 0:02:28.3]} 12... g6 {[%clk 0:02:09.3]} 13. Qh4 {[%clk 0:02:26]} 13... b5 {[%clk 0:01:54.4]} 14. Bh6 {[%clk 0:02:21.4]} 14... Re8 {[%clk 0:01:51.4]} 15. Nh3 {[%clk 0:02:18.4]} 15... b4 {[%clk 0:01:40]} 16. a4 {[%clk 0:02:11.8]} 16... b3 {[%clk 0:01:37.8]} 17. Bd2 {[%clk 0:02:03.8]} 17... bxc2 {[%clk 0:01:35.5]} 18. Kxc2 {[%clk 0:02:03.6]} 18... Qb7 {[%clk 0:01:20.8]} 19. Ng5 {[%clk 0:01:59.2]} 19... a5 {[%clk 0:01:17.6]} 20. Qxh7+ {[%clk 0:01:58.9]} 20... Kf8 {[%clk 0:00:53.7]} 21. Qxf7# {[%clk 0:02:00.8]} 1-0\n"
+      },
+      {
+        "id": "g2",
+        "platform": "lichess",
+        "opponent": "SpasskyReborn",
+        "opponentRating": 1620,
+        "myRating": 1550,
+        "result": "loss",
+        "color": "black",
+        "date": "2026-05-30"
+      },
+      {
+        "id": "g4",
+        "platform": "lichess",
+        "opponent": "MagnusMini",
+        "opponentRating": 1700,
+        "myRating": 1580,
+        "result": "win",
+        "color": "black",
+        "date": "2026-05-28"
+      }
+    ],
+    "userElo": 1500,
+    "matchHistory": []
+  },
+  "AKSHATH": {
+    "chesscomConnected": true,
+    "lichessConnected": false,
+    "chesscomUsername": "AKSHATH",
+    "lichessUsername": "",
+    "chesscomData": {
+      "username": "AKSHATH",
+      "bullet": 660,
+      "blitz": 1192,
+      "rapid": 929,
+      "gamesCount": 1020
+    },
+    "lichessData": null,
+    "importedGames": [
+      {
+        "id": "cc_0_1780339585",
+        "platform": "chesscom",
+        "opponent": "AphramA",
+        "opponentRating": 1143,
+        "myRating": 1192,
+        "result": "loss",
+        "color": "white",
+        "date": "2026-06-01",
+        "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.06.01\"]\n[Round \"-\"]\n[White \"akshath\"]\n[Black \"AphramA\"]\n[Result \"0-1\"]\n[CurrentPosition \"8/8/2B4p/b7/P1r4k/8/2K5/8 w - - 3 45\"]\n[Timezone \"UTC\"]\n[ECO \"C24\"]\n[ECOUrl \"https://www.chess.com/openings/Bishops-Opening-Berlin-Defense\"]\n[UTCDate \"2026.06.01\"]\n[UTCTime \"18:38:28\"]\n[WhiteElo \"1192\"]\n[BlackElo \"1143\"]\n[TimeControl \"300\"]\n[Termination \"AphramA won by resignation\"]\n[StartTime \"18:38:28\"]\n[EndDate \"2026.06.01\"]\n[EndTime \"18:46:25\"]\n[Link \"https://www.chess.com/game/live/169566072076\"]\n\n1. e4 {[%clk 0:04:59.9]} 1... e5 {[%clk 0:04:58.7]} 2. Bc4 {[%clk 0:04:59.4]} 2... Nf6 {[%clk 0:04:56.6]} 3. Nf3 {[%clk 0:04:57]} 3... d5 {[%clk 0:04:50]} 4. exd5 {[%clk 0:04:55.4]} 4... Bd6 {[%clk 0:04:48.7]} 5. d3 {[%clk 0:04:49.8]} 5... O-O {[%clk 0:04:47]} 6. Bg5 {[%clk 0:04:45.8]} 6... Bg4 {[%clk 0:04:43.8]} 7. h3 {[%clk 0:04:44.6]} 7... Bh5 {[%clk 0:04:42.6]} 8. Nbd2 {[%clk 0:04:33.2]} 8... h6 {[%clk 0:04:41.5]} 9. Bxf6 {[%clk 0:04:31.5]} 9... Qxf6 {[%clk 0:04:40.1]} 10. c3 {[%clk 0:04:30.4]} 10... Nd7 {[%clk 0:04:36.7]} 11. Qb3 {[%clk 0:04:27.2]} 11... b6 {[%clk 0:04:33.3]} 12. Bb5 {[%clk 0:04:18.8]} 12... Nc5 {[%clk 0:04:31.5]} 13. Qc4 {[%clk 0:04:14.5]} 13... a6 {[%clk 0:04:25]} 14. Bc6 {[%clk 0:04:13]} 14... Rad8 {[%clk 0:04:21.3]} 15. b4 {[%clk 0:04:02.2]} 15... b5 {[%clk 0:04:18.8]} 16. Qh4 {[%clk 0:03:52.4]} 16... Nxd3+ {[%clk 0:04:15.5]} 17. Kf1 {[%clk 0:03:40.3]} 17... Bxf3 {[%clk 0:04:06.9]} 18. Nxf3 {[%clk 0:03:37.8]} 18... e4 {[%clk 0:03:57.9]} 19. Qxf6 {[%clk 0:03:34.2]} 19... gxf6 {[%clk 0:03:54.9]} 20. Nh2 {[%clk 0:03:27.7]} 20... f5 {[%clk 0:03:53.1]} 21. f4 {[%clk 0:03:24.6]} 21... Bxf4 {[%clk 0:03:46.4]} 22. Ke2 {[%clk 0:03:16.6]} 22... Kh7 {[%clk 0:03:42.9]} 23. Rhf1 {[%clk 0:03:10.6]} 23... Rg8 {[%clk 0:03:21.5]} 24. Nf3 {[%clk 0:02:04.6]} 24... Rxg2+ {[%clk 0:03:18.7]} 25. Kd1 {[%clk 0:01:59.7]} 25... Ne5 {[%clk 0:03:05.7]} 26. Nxe5 {[%clk 0:01:54.2]} 26... Bxe5 {[%clk 0:03:04.6]} 27. Rxf5 {[%clk 0:01:51.9]} 27... Bxc3 {[%clk 0:03:02.8]} 28. Rxf7+ {[%clk 0:01:50.2]} 28... Kg6 {[%clk 0:02:58.8]} 29. Rxc7 {[%clk 0:01:40.1]} 29... Bxa1 {[%clk 0:02:56]} 30. Rb7 {[%clk 0:01:32.8]} 30... Rg5 {[%clk 0:02:47.1]} 31. Rb6 {[%clk 0:01:29.7]} 31... Rd6 {[%clk 0:02:40.8]} 32. Rxa6 {[%clk 0:01:26.5]} 32... Rgxd5+ {[%clk 0:02:36.6]} 33. Kc2 {[%clk 0:01:14.2]} 33... Rd4 {[%clk 0:02:17.1]} 34. Bxb5 {[%clk 0:01:05.4]} 34... Rxa6 {[%clk 0:02:14.8]} 35. Bxa6 {[%clk 0:01:05.3]} 35... Rxb4 {[%clk 0:02:12.3]} 36. h4 {[%clk 0:00:58.3]} 36... Rd4 {[%clk 0:02:11.2]} 37. Kb1 {[%clk 0:00:54.6]} 37... Bc3 {[%clk 0:02:09.9]} 38. Kc2 {[%clk 0:00:52.1]} 38... Ba5 {[%clk 0:02:06.7]} 39. a3 {[%clk 0:00:41.2]} 39... Rd6 {[%clk 0:02:04.3]} 40. Bb7 {[%clk 0:00:36.8]} 40... Rb6 {[%clk 0:02:01.5]} 41. Bxe4+ {[%clk 0:00:35.1]} 41... Kh5 {[%clk 0:01:54.9]} 42. Bf3+ {[%clk 0:00:31.5]} 42... Kxh4 {[%clk 0:01:53.3]} 43. a4 {[%clk 0:00:28.8]} 43... Rb4 {[%clk 0:01:51.3]} 44. Bc6 {[%clk 0:00:27]} 44... Rc4+ {[%clk 0:01:49.5]} 0-1\n",
+        "isAnalyzing": false,
+        "accuracy": 84.9
+      },
+      {
+        "id": "g2",
+        "platform": "lichess",
+        "opponent": "SpasskyReborn",
+        "opponentRating": 1620,
+        "myRating": 1550,
+        "result": "loss",
+        "color": "black",
+        "date": "2026-05-30"
+      },
+      {
+        "id": "g4",
+        "platform": "lichess",
+        "opponent": "MagnusMini",
+        "opponentRating": 1700,
+        "myRating": 1580,
+        "result": "win",
+        "color": "black",
+        "date": "2026-05-28"
+      }
+    ],
+    "userElo": 1500,
+    "matchHistory": []
+  }
+}

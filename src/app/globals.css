@@ -1,0 +1,149 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, SFMono-Regular, monospace;
+  
+  --color-background: #161513; /* Chess.com page background */
+  --color-foreground: #ffffff;
+  
+  --color-primary-400: #97d457; /* Chess.com brand green highlight */
+  --color-primary-500: #81b64c; /* Chess.com brand green */
+  --color-primary-600: #6c983f; /* Chess.com brand green dark */
+  
+  --color-accent-400: #7a7977;
+  --color-accent-500: #595856;
+  
+  --color-surface-50: #191816;
+  --color-surface-100: #21201e;
+  --color-surface-200: #262421;
+  --color-surface-300: #312e2b;
+  
+  --color-board-light: #eeeed2;
+  --color-board-dark: #769656;
+}
+
+@layer base {
+  :root {
+    color-scheme: dark;
+  }
+
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    font-feature-settings: "rlig" 1, "calt" 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Global smooth interactive transitions */
+  button, a, input, select, textarea, [role="button"] {
+    transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 200ms;
+  }
+}
+
+@utility glass {
+  background-color: rgba(25, 24, 22, 0.85); /* Chess.com warm dark transparent */
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.04);
+}
+
+@utility glass-card {
+  background: linear-gradient(135deg, rgba(38, 36, 33, 0.95) 0%, rgba(25, 24, 22, 0.8) 100%); /* Warm grey gradient */
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.45);
+  border-radius: 1rem;
+}
+
+@utility glass-panel {
+  background-color: rgba(25, 24, 22, 0.75);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+@utility text-gradient {
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-image: linear-gradient(135deg, var(--color-primary-400), #ffffff);
+}
+
+/* Custom scrollbar for premium Chess.com feel */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-surface-300);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-accent-500);
+}
+
+/* Smooth scrolling and pointer selection styles */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Premium smooth transitions */
+.smooth-hover {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.smooth-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 24px -10px rgba(0, 0, 0, 0.5), 0 0 0 1px rgba(111, 169, 63, 0.2);
+}
+
+/* Active press animation for buttons */
+.btn-press {
+  transition: all 0.1s ease;
+}
+.btn-press:active {
+  transform: scale(0.97);
+}
+
+/* Glow border on hover */
+.glow-on-hover {
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+.glow-on-hover:hover {
+  border-color: rgba(111, 169, 63, 0.3);
+  box-shadow: 0 0 16px rgba(111, 169, 63, 0.1);
+}
+
+/* Premium micro-animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  opacity: 0;
+  animation: fadeInUp 0.45s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Stagger delay utilities */
+.delay-75 { animation-delay: 75ms; }
+.delay-100 { animation-delay: 100ms; }
+.delay-150 { animation-delay: 150ms; }
+.delay-200 { animation-delay: 200ms; }
+.delay-300 { animation-delay: 300ms; }
+
+
