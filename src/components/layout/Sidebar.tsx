@@ -78,9 +78,7 @@ export default function Sidebar() {
       {/* Logo */}
       <div className={`p-6 border-b border-surface-300 flex items-center ${isCollapsed ? "justify-center px-4" : "justify-between"}`}>
         <Link href="/" className="flex items-center gap-3">
-          <svg className="w-8 h-8 text-primary-500 fill-current shrink-0" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-            <path d="M50 15c-6.63 0-12 5.37-12 12 0 4.14 2.1 7.78 5.28 9.9C36.96 40.54 32 47.96 32 56.5c0 2.21 1.79 4 4 4h28c2.21 0 4-1.79 4-4 0-8.54-4.96-15.96-11.28-19.6 3.18-2.12 5.28-5.76 5.28-9.9 0-6.63-5.37-12-12-12zm-20 53h40c2.21 0 4 1.79 4 4v4H26v-4c0-2.21 1.79-4 4-4zm-4 12h48v4H26v-4z" />
-          </svg>
+          <img src="/logo.png" alt="Logo" className="w-8 h-8 object-contain shrink-0" />
           {!isCollapsed && (
             <span className="text-2xl font-black tracking-tight text-white flex items-baseline select-none">
               chess<span className="text-primary-500">onium</span>

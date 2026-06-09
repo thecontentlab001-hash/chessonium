@@ -38,14 +38,7 @@ export default function GlobalLoading() {
       <div className="relative flex flex-col items-center max-w-sm px-6 text-center space-y-6 z-10">
         {/* Pulsing Knight Logo */}
         <div className="relative w-20 h-20 flex items-center justify-center bg-surface-100/50 border border-white/10 rounded-2xl shadow-2xl animate-pulse">
-          <svg
-            className="w-12 h-12 text-[#81b64c] fill-current"
-            viewBox="0 0 100 100"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path d="M35 80c-2 0-4-2-4-4 0-1 0-2 1-3l5-12c-3-2-5-5-5-9 0-2 1-4 2-5-2-4-2-8-1-12 1-5 4-10 9-13 4-2 9-3 13-3 6 0 11 3 14 8 2 3 3 7 3 11 0 4-1 8-4 11l-3 4c-1 1-1 3-1 4v8c0 2-2 4-4 4H35zm10-50c0-2-2-4-4-4s-4 2-4 4 2 4 4 4 4-2 4-4z" />
-            <path d="M25 85h50c2 0 4 2 4 4v4H21v-4c0-2 2-4 4-4z" />
-          </svg>
+          <img src="/logo.png" alt="Logo" className="w-12 h-12 object-contain shrink-0" />
           {/* Subtle spinning glow ring around it */}
           <div className="absolute inset-0 rounded-2xl border border-t-[#81b64c] border-r-transparent border-b-transparent border-l-transparent animate-spin duration-1000" />
         </div>

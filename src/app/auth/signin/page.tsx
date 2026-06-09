@@ -200,9 +200,7 @@ export default function SignInPage() {
         <div className="flex-1 flex flex-col justify-center max-w-[440px] mx-auto w-full space-y-8">
           {/* Logo */}
           <div className="flex items-center gap-3 relative z-10 self-start">
-            <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-primary-500 to-accent-600 flex items-center justify-center shadow-lg shadow-primary-500/30">
-              <span className="text-white text-xl font-black">♛</span>
-            </div>
+            <img src="/logo.png" alt="Logo" className="w-10 h-10 object-contain shrink-0" />
             <span className="text-white font-extrabold text-xs tracking-widest uppercase">Ultimate Chess</span>
           </div>
 
@@ -247,9 +245,7 @@ export default function SignInPage() {
 
           {/* Mobile logo */}
           <div className="lg:hidden flex items-center gap-3 mb-4">
-            <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-primary-500 to-accent-600 flex items-center justify-center">
-              <span className="text-white text-lg font-black">♛</span>
-            </div>
+            <img src="/logo.png" alt="Logo" className="w-9 h-9 object-contain shrink-0" />
             <span className="text-white font-extrabold text-xs tracking-widest uppercase">Ultimate Chess</span>
           </div>
 
